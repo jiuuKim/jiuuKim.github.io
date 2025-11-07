@@ -24,7 +24,7 @@ $$
 하지만 plucker 좌표는 아래처럼 방향 벡터 $$d$$와 모멘트 벡터 $$m$$으로 표현한다.
 
 $$
-(d_x, d_y, d_z, m_x, m_y, m_z)
+\overline{PQ} = (d_x, d_y, d_z, m_x, m_y, m_z)
 $$
 <br>
 $$
